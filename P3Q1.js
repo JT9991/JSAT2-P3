@@ -33,3 +33,16 @@ let substringThe = anotherString.substring(6, 9);
 console.log("Q3 Results: ");
 console.log("Slice from myString =", sliceIsA);
 console.log("Substring from anotherString = ", substringThe);
+
+
+
+// change to upper case
+let upperCase = myName.toUpperCase();
+
+// change to lower case 
+let lowerCase = myName.toLowerCase();
+
+console.log("\nQ4 Results: ");
+console.log("Name in Upper Case =", upperCase);
+console.log("Name in Lower Case =", lowerCase);
+
