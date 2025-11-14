@@ -1,0 +1,1 @@
+This is a readme file for Part 3 only for JSAT2
