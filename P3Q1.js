@@ -22,3 +22,14 @@ let eleventhCharacter = myString.charAt(10);
 console.log("length =", lengthOfMyString);
 console.log("First character =", firstCharacter);
 console.log("Eleventh Character =", eleventhCharacter);
+
+
+// slicing
+let sliceIsA = myString.slice(5, 9);
+
+//substring 
+let substringThe = anotherString.substring(6, 9);
+
+console.log("Q3 Results: ");
+console.log("Slice from myString =", sliceIsA);
+console.log("Substring from anotherString = ", substringThe);
