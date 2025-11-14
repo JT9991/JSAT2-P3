@@ -19,6 +19,6 @@ let firstCharacter = myString.charAt(0);
 let eleventhCharacter = myString.charAt(10);
 
 
-console.log(lengthOfMyString);
-console.log(firstCharacter);
-console.log(eleventhCharacter);
+console.log("length =", lengthOfMyString);
+console.log("First character =", firstCharacter);
+console.log("Eleventh Character =", eleventhCharacter);
